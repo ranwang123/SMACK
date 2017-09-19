@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/src/main/resources/gzipped-file.gz,/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/target/scala-2.11/classes/gzipped-file.gz)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/src/main/resources/testfile2.txt,/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/target/scala-2.11/classes/testfile2.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/src/main/resources/testfile3.txt,/home/user/Desktop/material/codeExamples/Akka-Cookbook-master/Chapter08/target/scala-2.11/classes/testfile3.txt)[0m
